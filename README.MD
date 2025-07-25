@@ -15,7 +15,15 @@ Le script génère un fichier HTML contenant :
 Exemple de rapport
 ------------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Nombre total de groupes de fichiers en double : 15  ┌─────────────────────┬─────────────────────────────────────┐  │ Nombre de doublons  │ Fichiers                            │  ├─────────────────────┼─────────────────────────────────────┤  │ 3                   │ C:\Users\tbury\image1.jpg           │  │                     │ C:\Users\tbury\Photos\image1.jpg    │  │                     │ C:\Users\tbury\Backup\image1.jpg    │  └─────────────────────┴─────────────────────────────────────┘   `
+Nombre total de groupes de fichiers en double : 15  
+┌─────────────────────┬─────────────────────────────────────┐  
+│ Nombre de doublons  │ Fichiers                            │  
+├─────────────────────┼─────────────────────────────────────┤  
+│ 3                   │ C:\Users\tbury\image1.jpg           │  
+│                     │ C:\Users\tbury\Photos\image1.jpg    │  
+│                     │ C:\Users\tbury\Backup\image1.jpg    │  
+└─────────────────────┴─────────────────────────────────────┘   
+
 
 Filtres appliqués
 -----------------
